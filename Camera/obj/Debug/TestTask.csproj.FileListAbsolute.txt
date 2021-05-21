@@ -1,0 +1,10 @@
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\TestTask.csprojAssemblyReference.cache
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\Camera.MainForm.resources
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\Camera.exe
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\obj\Debug\Camera.pdb
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\bin\Debug\Camera.exe.config
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\bin\Debug\Camera.exe
+C:\Users\mvcha\Desktop\work not wolf\Camera\Camera\bin\Debug\Camera.pdb
